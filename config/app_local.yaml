@@ -4,4 +4,4 @@ log:
   displayLine: true
   isJson: false
   console: true
-  file: /var/log/DeeplearnningAlgorithmesNeuralNetwork.log
+  file: /var/log/go-program-famework.log

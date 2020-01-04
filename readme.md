@@ -1,1 +1,1 @@
-# DeeplearnningAlgorithmesNeuralNetwork
+# deep-learnning-algorithmes

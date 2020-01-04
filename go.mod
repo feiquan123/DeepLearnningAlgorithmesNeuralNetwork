@@ -1,4 +1,4 @@
-module localhost.com/DeeplearnningAlgorithmesNeuralNetwork
+module localhost.com/deep-learnning-algorithmes
 
 go 1.13
 
