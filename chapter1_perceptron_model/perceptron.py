@@ -60,7 +60,6 @@ class DataScatter(object):
         x[n:2 * n, 1] = ys2
         x[n:2 * n, 2] = zs2
         y_[n: 2 * n] = -1  # 正确分类 -1 (负实例)
-
         return x, y_
 
 
@@ -131,7 +130,7 @@ def main():
     vw = view()
     hp_ = vw.getHyperPlane(data.w_, data.b)
     vw.show(100, data.x, hp_)
-
+    
     hp = vw.getHyperPlane(model.w[0], model.b)
     vw.show(100, data.x, hp)
 
